@@ -1,0 +1,1 @@
+This HR Analytics Dashboard project visualizes key workforce metrics such as employee distribution, attrition trends, salary analysis, and performance ratings. Built using Power BI, it enables data-driven decision-making through interactive charts and slicers, helping organizations understand and optimize their human resources effectively.
